@@ -1,7 +1,7 @@
 # PDI_multistate
 
 
-main.R: Main function used to estimation the PDI for the multistate data
+main_PDI.R: Main function used to estimation the PDI for the multistate data
 
 simdata: Sample multistate dataset generated for 1500 individuals
 
